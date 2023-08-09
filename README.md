@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brahmiraj_Thramapalan</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full St![Mygit](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/9f7d1f4a-dd20-4c16-8314-d1bc483b181d)
+ack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
 
