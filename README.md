@@ -1,11 +1,9 @@
-![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/e9edfd5a-50c0-493d-b50c-8dda7f6b0076)
+<h1 align="center">Hi 👋, I'm Brahmiraj_Thramapalan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
- <img  https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/raw/main/assets/123236415/2575908a-b1bd-42c4-a779-2abc270aa580.png" alt="mygit" width="200">
 
-
-
-
+<p align="left"> <a href="https://twitter.com/@brahmiraj" target="blank"><img src="https://img.shields.io/twitter/follow/@brahmiraj?logo=twitter&style=for-the-badge" alt="@brahmiraj" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -17,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@brahmiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@brahmiraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brahmiraj-tharmapalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brahmiraj-tharmapalan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=365w863qxyol&utm_content=2wzkox4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=365w863qxyol&utm_content=2wzkox4" height="30" width="40" /></a>
-<a href="https://twitter.com/@brahmiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@brahmiraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
