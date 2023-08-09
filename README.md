@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
  <img  https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/raw/main/assets/123236415/2575908a-b1bd-42c4-a779-2abc270aa580.png" alt="mygit" width="200">
-<p align="right">![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/416027a8-4492-4a36-a89c-bcc54c170e93)</p>
+<p align="right"> <img src="![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/416027a8-4492-4a36-a89c-bcc54c170e93)" /></p>
 
 
 
