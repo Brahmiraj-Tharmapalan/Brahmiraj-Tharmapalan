@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
 <p align=right>
-<img width=150 src="![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8)"/>
+<img width=150 src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8"/>
 </p>
 
 - 🌱 I’m currently learning **Next.js**
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Gamer**
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@brahmiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@brahmiraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brahmiraj-tharmapalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brahmiraj-tharmapalan" height="30" width="40" /></a>
