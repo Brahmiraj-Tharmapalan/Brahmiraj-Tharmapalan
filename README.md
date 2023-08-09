@@ -1,11 +1,10 @@
-![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/df7a1e42-f70c-4c14-b050-af94e7ec6ed7)
+<div style="display: flex; justify-content: flex-end;">
+    <img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" alt="Blue Liquid Art Design Gallery Intro Video" width="300" />
+</div>
 
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
-
-![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8)
-
 
 - 🌱 I’m currently learning **Next.js**
 
