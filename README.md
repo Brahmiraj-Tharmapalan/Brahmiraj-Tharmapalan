@@ -7,7 +7,7 @@
 
 
 
-<img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="200" align="right" alt="Sachin Malhotra's Dev Card"/>
+<img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="500" align="right" alt="Sachin Malhotra's Dev Card"/>
 
 - 🌱 I’m currently learning **Next.js**
 
