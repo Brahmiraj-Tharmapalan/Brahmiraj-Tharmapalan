@@ -1,7 +1,4 @@
-
-![mygit](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/2575908a-b1bd-42c4-a779-2abc270aa580)
-
-
+![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/e9edfd5a-50c0-493d-b50c-8dda7f6b0076)
 <h3 align="center">A passionate Full Stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
 
