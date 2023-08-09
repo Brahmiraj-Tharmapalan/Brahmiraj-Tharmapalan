@@ -4,10 +4,12 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
+
+<div>
 <p align=right>
 <img width=150 src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8"/>
 </p>
-
+<p align=left>
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Next.js and node**
@@ -15,6 +17,10 @@
 - 📫 How to reach me **brahmirajt@gmail.com**
 
 - ⚡ Fun fact **Gamer**
+
+  </p>
+
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
