@@ -1,13 +1,9 @@
-
-![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/df7a1e42-f70c-4c14-b050-af94e7ec6ed7)
-
+<h1 align="center">Hi 👋, I'm Brahmiraj_Thramapalan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
 
-
-
-<img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="500" align="right" alt="Sachin Malhotra's Dev Card"/>
+<p align="left"> <a href="https://twitter.com/@brahmiraj" target="blank"><img src="https://img.shields.io/twitter/follow/@brahmiraj?logo=twitter&style=for-the-badge" alt="@brahmiraj" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
