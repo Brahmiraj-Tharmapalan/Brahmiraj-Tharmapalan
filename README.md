@@ -1,7 +1,7 @@
 ![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/585b4acf-42ca-45fc-a463-1c6b459a060e)
 
 # 💫 About Me:
-<img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="500" align="right" alt="Sachin Malhotra's Dev Card"/>
+<img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="200" align="right" alt="Sachin Malhotra's Dev Card"/>
 As an enthusiastic and driven Software Engineer, I am dedicated to creating intuitive and user-friendly<br>applications. My passion for innovation and commitment to self-improvement drive me to stay updated<br>with the latest industry trends. I am seeking a full-stack software engineering role. My goal is to make a<br>positive impact on the organization's success by delivering outstanding user experiences. With a focus on<br>continuous learning and growth, I am excited to showcase my knowledge and technical skills to support the<br>team and achieve project excellence.
 
 
