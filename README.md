@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
-![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/e84c1af4-50e0-43c6-9ad4-2184c8abfeba)
+
+![Blue Liquid Art Design Gallery Intro Video](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8)
 
 
 - 🌱 I’m currently learning **Next.js**
