@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Brahmiraj_Thramapalan</h1>
+
+![mygit](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/2575908a-b1bd-42c4-a779-2abc270aa580)
+
+
 <h3 align="center">A passionate Full Stack developer</h3>
-
-![Mygit](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/ba72f689-ffde-47c3-bb06-1722c00c59bc)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahmiraj-tharmapalan&label=Profile%20views&color=0e75b6&style=flat" alt="brahmiraj-tharmapalan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@brahmiraj" target="blank"><img src="https://img.shields.io/twitter/follow/@brahmiraj?logo=twitter&style=for-the-badge" alt="@brahmiraj" /></a> </p>
