@@ -1,4 +1,6 @@
-![my_github](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/585b4acf-42ca-45fc-a463-1c6b459a060e)
+![my_github](https://github.com/Br![brave](https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/a4aa142f-02f5-43a9-be77-1d1de7a84e3d)
+ahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/585b4acf-42ca-45fc-a463-1c6b459a060e)
+
 
 # 💫 About Me:
 <img src="https://github.com/Brahmiraj-Tharmapalan/Brahmiraj-Tharmapalan/assets/123236415/8da63e39-9c61-4a15-b230-cc9d11b185b8" width="200" align="right" alt="Sachin Malhotra's Dev Card"/>
